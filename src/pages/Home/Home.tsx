@@ -9,6 +9,7 @@ function Home(props: homeProps) {
     return (
     <>
     <div style={{
+        
         textAlign:"center",
         color: "blue",
         backgroundColor:"black",

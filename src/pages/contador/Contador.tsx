@@ -9,6 +9,7 @@ function Contador() {
  }
     return (
     <div style={{color:"blue",
+    
                      fontFamily:"cursive",
                      textAlign:"center",
                     backgroundColor:"black"}}  >
